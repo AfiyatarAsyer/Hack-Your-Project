@@ -1,0 +1,15 @@
+git config --global user.name "AfiyatarAsyer"
+git config --global user.email "afiasyer@gmail.com"
+git clone https://github.com/AfiyatarAsyer/First-commit.git
+
+
+
+langkah pertama: masuk keadalam folder atau buat folder dengan mkdir.
+1. git init
+2. git add .
+3. git commit -m ""
+4. git push origin main
+
+---  resolve git push ---
+git pull --rebase origin main
+git push origin main
